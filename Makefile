@@ -1,0 +1,2 @@
+all:
+	g++ -I src/include -L src/lib -o Purrloiner src/main.cpp src/Game.cpp src/TextureManager.cpp src/Map.cpp src/Vector2D.cpp src/Collision.cpp src/ECS/ECS.cpp src/AssetManager.cpp src/Button.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf
