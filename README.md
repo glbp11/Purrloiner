@@ -9,4 +9,5 @@ Using the WASD keys to move around, direct your character to try and touch the m
 If you want to play this game yourself, all you need to do is to copy the project onto your device and run the Purrloiner.exe file.
 
 # Assets
-https://cupnooble.itch.io/sprout-lands-asset-pack
+[Sprite assets]https://cupnooble.itch.io/sprout-lands-asset-pack
+[SDL2 files]https://github.com/libsdl-org/SDL/releases
